@@ -1,7 +1,5 @@
 """
 Simple chatbot for ISBAT University
-Created on Thu Jun 20 13:03:28 2019
-
 Author: Waiswa Donnie
 Bsc.Applied Information Technology
 @ISBAT University
